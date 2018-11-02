@@ -31,7 +31,7 @@ No warranty given, possible data loss is on your responsibility.
 
 ## Authors
 
-* **hrvylein** - *Initial work* - [PurpleBooth](https://github.com/hrvylein)
+* **hrvylein** - *Initial work*
 
 ## License
 
